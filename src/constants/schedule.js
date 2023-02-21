@@ -1,0 +1,1 @@
+export const NUMBER_OF_ACTIVITIES_PER_DAY = 5;

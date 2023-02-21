@@ -1,0 +1,10 @@
+export const COLLAPSED_BEGIN = 'COLLAPSED_BEGIN';
+export const RUNNING_SET = 'RUNNING_SET';
+export const RUNNING_REST = 'RUNNING_REST';
+export const COLLAPSED_RESUME = 'COLLAPSED_RESUME';
+export const CHANGE_FROM_REST_TO_SET = 'CHANGE_FROM_REST_TO_SET';
+export const RESETED = 'RESETED';
+export const STOPPED = 'STOPPED';
+export const CLOSED = 'CLOSED';
+export const RUNNING = 'RUNNING';
+export const OPENED = 'OPENED';
